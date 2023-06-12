@@ -268,15 +268,15 @@
     {
         "name": "Einundzwanzig Sauerland",
         "url": "https://t.me/einundzwanzig_sauerland",
-        "top": 35,
+        "top": 34,
         "left": 30,
         "country": "DE",
         "state": [
             "Nordrhein-Westfalen"
         ],
         "city": "Sauerland",
-        "latitude": 51.2609835,
-        "longitude": 8.0475484
+        "latitude": 51.386020,
+        "longitude": 8.505610
     },
     {
         "name": "Einundzwanzig Recklinghausen",
